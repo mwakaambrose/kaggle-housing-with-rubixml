@@ -1,0 +1,9 @@
+/vendor
+composer.lock
+predictions.csv
+progress.csv
+report.json
+*.rbx
+*.old
+.vscode
+.vs
